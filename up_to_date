@@ -1,0 +1,6 @@
+git clone
+git branch
+git status
+git push
+git add .
+git branch -M branchName
